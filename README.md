@@ -1,40 +1,33 @@
 <table align="center" style="
-  border-radius: 20px; 
-  max-width: 720px; 
-  padding: 20px; 
+  border-radius: 15px; 
+  max-width: 700px; 
+  padding: 25px; 
   box-shadow:
-    0 4px 8px rgba(0, 123, 255, 0.2),
-    0 6px 20px rgba(0, 123, 255, 0.15),
-    0 0 15px rgba(173, 216, 230, 0.5);
-  border: 3px solid;
-  border-image-slice: 1;
-  border-width: 3px;
-  border-image-source: linear-gradient(45deg, #1e90ff, #87ceeb, #b0c4de);
-  background: #f8fbff;
+    0 8px 15px rgba(81, 43, 212, 0.3),
+    0 4px 6px rgba(106, 90, 205, 0.25);
+  border: 3px solid #512BD4;
+  background-color: #f9faff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 ">
   <tr>
     <td style="width: 160px; vertical-align: middle; text-align: center;">
       <img src="https://github.com/Arhiell.png" alt="Foto de Ariel" width="140" height="140" style="
         border-radius: 50%; 
-        border: 4px solid #87ceeb; 
-        box-shadow: 0 0 15px #87ceeb;">
+        border: 4px solid #6A5ACD; 
+        box-shadow: 0 0 12px #7f7fff;">
     </td>
-    <td style="padding-left: 30px; vertical-align: middle; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #1a1a1a;">
-      <h1 style="margin: 0; color: #1e90ff; font-weight: 700;">👋 ¡Hola! Soy Ariel Ayala</h1>
-      
-      <p style="margin-top: 12px; font-size: 16px; line-height: 1.5;">
-        🎓 <strong>Estudiante en:</strong> <br />
-        Universidad Tecnológica Nacional - Facultad Regional Resistencia (UTN FRRe) <br /><br />
-        
-        💻 <strong>Especialidad:</strong> Desarrollo Backend <br /><br />
-        
-        📍 <strong>Ubicación:</strong> Goya, Corrientes, Argentina <br /><br />
-        
+    <td style="padding-left: 30px; vertical-align: middle; color: #2a2a72;">
+      <h1 style="margin: 0 0 10px 0; font-weight: 700; font-size: 2.2em;">👋 ¡Hola! Soy Ariel Ayala</h1>
+      <p style="font-size: 1.1em; margin: 8px 0;">
+        🎓 <strong>Estudiante</strong> en <em>UTN - Facultad Regional Resistencia</em><br>
+        💻 Enfocado en desarrollo <strong>Backend</strong><br>
+        📍 Resido en <strong>Goya, Corrientes, Argentina</strong><br><br>
         🔥 Apasionado por crear soluciones digitales eficientes y aprender constantemente.
       </p>
     </td>
   </tr>
 </table>
+
 
 
 ---
