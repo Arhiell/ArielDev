@@ -1,12 +1,21 @@
-<p align="center">
-  <img src="https://github.com/Arhiell.png" alt="Foto de Ariel" width="140" height="140" style="border-radius: 50%;"/>
-</p>
-
-<h1 align="center">👋 ¡Hola! Soy Ariel Ayala</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKUMaRvwP4zZ0p6/giphy.gif" width="180" />
-</p>
+<table align="center" style="border: 3px solid #512BD4; border-radius: 15px; padding: 20px; max-width: 700px;">
+  <tr>
+    <td style="width: 160px; vertical-align: middle; text-align: center;">
+      <img src="https://github.com/Arhiell.png" alt="Foto de Ariel" width="140" height="140" style="border-radius: 50%; border: 3px solid #6A5ACD;" />
+    </td>
+    <td style="padding-left: 25px; vertical-align: middle;">
+      <h1 style="margin: 0; color: #512BD4;">👋 ¡Hola! Soy Ariel Ayala</h1>
+      <h3 style="margin-top: 8px; font-weight: normal; color: #6A5ACD;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Estudiante+de+la+UTN;Backend+Developer+en+formación;Apasionado+por+el+código+%F0%9F%92%BB" alt="Typing SVG" />
+      </h3>
+      <p style="margin-top: 12px; font-size: 16px; color: #333;">
+        Estudiante en UTN - Facultad Regional Resistencia, enfocado en desarrollo backend.<br />
+        Vivo en Goya, Corrientes, Argentina.<br />
+        Apasionado por crear soluciones digitales y aprender constantemente.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
