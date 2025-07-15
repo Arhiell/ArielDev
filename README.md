@@ -59,14 +59,32 @@
 
 ---
 
-### 🛠️ Tecnologías que uso
-
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+<table align="center" style="
+  border-radius: 15px;
+  max-width: 600px;
+  padding: 20px;
+  box-shadow:
+    0 6px 12px rgba(81, 43, 212, 0.3),
+    0 3px 6px rgba(106, 90, 205, 0.25);
+  border: 3px solid #512BD4;
+  background-color: #f9faff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #2a2a72;
+">
+  <tr>
+    <td align="center" style="font-size: 1.6em; font-weight: 700; padding-bottom: 10px; color: #512BD4;">
+      🛠️ Tecnologías que uso
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding-top: 5px;">
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />&nbsp;
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </td>
+  </tr>
+</table>
 
 ---
 
