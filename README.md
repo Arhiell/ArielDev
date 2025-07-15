@@ -88,35 +88,63 @@
 
 ---
 
-### 🚀 Proyectos Destacados
-
-<table align="center" style="width:100%; border-collapse: separate; border-spacing: 25px 25px;">
+<table align="center" style="width:100%; border-collapse: separate; border-spacing: 25px 25px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 <tr>
 
 <td align="center" valign="top" width="33%" style="border: 3px solid #FF6F61; border-radius: 16px; padding: 20px; box-shadow: 4px 4px 20px rgba(255, 111, 97, 0.5); transition: transform 0.3s ease;">
-  <a href="https://github.com/Arhiell/DoneItMobil" target="_blank" style="text-decoration:none; color:#222;">
-    <h3>📱 DoneIt! Mobile</h3>
-    <p>Gestor de tareas para Android con Kotlin y arquitectura MVVM.</p>
-    <p><strong>Herramientas:</strong> Kotlin, Android Studio, Retrofit, RecyclerView, ViewModel, XML Layouts</p>
-    <p><strong>🔗 Repositorio:</strong> https://github.com/Arhiell/DoneItMobil</p>
+  <h3 style="margin-bottom: 12px; color: #FF6F61;">📱 DoneIt! Mobile</h3>
+  <p>Gestor de tareas para Android con Kotlin y arquitectura MVVM.</p>
+  <p><strong>Herramientas:</strong> Kotlin, Android Studio, Retrofit, RecyclerView, ViewModel, XML Layouts</p>
+  <a href="https://github.com/Arhiell/DoneItMobil" target="_blank" style="
+    display: inline-block;
+    margin-top: 12px;
+    padding: 8px 16px;
+    background-color: #FF6F61;
+    color: white;
+    font-weight: 600;
+    border-radius: 12px;
+    text-decoration: none;
+    box-shadow: 0 4px 10px rgba(255, 111, 97, 0.5);
+    transition: background-color 0.3s ease;">
+    🔗 Ver Repositorio
   </a>
 </td>
 
 <td align="center" valign="top" width="33%" style="border: 3px solid #6A5ACD; border-radius: 16px; padding: 20px; box-shadow: 4px 4px 20px rgba(106, 90, 205, 0.5); transition: transform 0.3s ease;">
-  <a href="https://github.com/Arhiell/DoneIt/tree/main" target="_blank" style="text-decoration:none; color:#222;">
-    <h3>💻 DoneIt! Web</h3>
-    <p>Gestor de tareas y proyectos con ASP.NET Core MVC y MySQL.</p>
-    <p><strong>Herramientas:</strong> ASP.NET Core MVC, Identity, JWT, MySQL, EF Core, Bootstrap, JavaScript</p>
-    <p><strong>🔗 Repositorio:</strong> https://github.com/Arhiell/DoneIt/tree/main</p>
+  <h3 style="margin-bottom: 12px; color: #6A5ACD;">💻 DoneIt! Web</h3>
+  <p>Gestor de tareas y proyectos con ASP.NET Core MVC y MySQL.</p>
+  <p><strong>Herramientas:</strong> ASP.NET Core MVC, Identity, JWT, MySQL, EF Core, Bootstrap, JavaScript</p>
+  <a href="https://github.com/Arhiell/DoneIt/tree/main" target="_blank" style="
+    display: inline-block;
+    margin-top: 12px;
+    padding: 8px 16px;
+    background-color: #6A5ACD;
+    color: white;
+    font-weight: 600;
+    border-radius: 12px;
+    text-decoration: none;
+    box-shadow: 0 4px 10px rgba(106, 90, 205, 0.5);
+    transition: background-color 0.3s ease;">
+    🔗 Ver Repositorio
   </a>
 </td>
 
 <td align="center" valign="top" width="33%" style="border: 3px solid #20B2AA; border-radius: 16px; padding: 20px; box-shadow: 4px 4px 20px rgba(32, 178, 170, 0.5); transition: transform 0.3s ease;">
-  <a href="https://github.com/Arhiell/ClinicaSaludWeb" target="_blank" style="text-decoration:none; color:#222;">
-    <h3>🏥 Clínica Web</h3>
-    <p>Aplicación para gestión integral de turnos médicos con roles diferenciados.</p>
-    <p><strong>Herramientas:</strong> Node.js, Express.js, MySQL, HTML5, CSS3, JavaScript</p>
-    <p><strong>🔗 Repositorio:</strong> https://github.com/Arhiell/ClinicaSaludWeb</p>
+  <h3 style="margin-bottom: 12px; color: #20B2AA;">🏥 Clínica Web</h3>
+  <p>Aplicación para gestión integral de turnos médicos con roles diferenciados.</p>
+  <p><strong>Herramientas:</strong> Node.js, Express.js, MySQL, HTML5, CSS3, JavaScript</p>
+  <a href="https://github.com/Arhiell/ClinicaSaludWeb" target="_blank" style="
+    display: inline-block;
+    margin-top: 12px;
+    padding: 8px 16px;
+    background-color: #20B2AA;
+    color: white;
+    font-weight: 600;
+    border-radius: 12px;
+    text-decoration: none;
+    box-shadow: 0 4px 10px rgba(32, 178, 170, 0.5);
+    transition: background-color 0.3s ease;">
+    🔗 Ver Repositorio
   </a>
 </td>
 
@@ -126,6 +154,8 @@
 <style>
   table td:hover {
     transform: scale(1.07);
+  }
+  table td:nth-child(1):hover {
     box-shadow: 0 0 25px rgba(255, 111, 97, 0.7);
   }
   table td:nth-child(2):hover {
@@ -135,6 +165,7 @@
     box-shadow: 0 0 25px rgba(32, 178, 170, 0.7);
   }
 </style>
+
 
 ---
 
