@@ -1,21 +1,41 @@
-<table align="center" style="border: 3px solid #512BD4; border-radius: 15px; padding: 20px; max-width: 700px;">
+<table align="center" style="
+  border-radius: 20px; 
+  max-width: 720px; 
+  padding: 20px; 
+  box-shadow:
+    0 4px 8px rgba(0, 123, 255, 0.2),
+    0 6px 20px rgba(0, 123, 255, 0.15),
+    0 0 15px rgba(173, 216, 230, 0.5);
+  border: 3px solid;
+  border-image-slice: 1;
+  border-width: 3px;
+  border-image-source: linear-gradient(45deg, #1e90ff, #87ceeb, #b0c4de);
+  background: #f8fbff;
+">
   <tr>
     <td style="width: 160px; vertical-align: middle; text-align: center;">
-      <img src="https://github.com/Arhiell.png" alt="Foto de Ariel" width="140" height="140" style="border-radius: 50%; border: 3px solid #6A5ACD;" />
+      <img src="https://github.com/Arhiell.png" alt="Foto de Ariel" width="140" height="140" style="
+        border-radius: 50%; 
+        border: 4px solid #87ceeb; 
+        box-shadow: 0 0 15px #87ceeb;">
     </td>
-    <td style="padding-left: 25px; vertical-align: middle;">
-      <h1 style="margin: 0; color: #512BD4;">👋 ¡Hola! Soy Ariel Ayala</h1>
-      <h3 style="margin-top: 8px; font-weight: normal; color: #6A5ACD;">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Estudiante+de+la+UTN;Backend+Developer+en+formación;Apasionado+por+el+código+%F0%9F%92%BB" alt="Typing SVG" />
-      </h3>
-      <p style="margin-top: 12px; font-size: 16px; color: #333;">
-        Estudiante en UTN - Facultad Regional Resistencia, enfocado en desarrollo backend.<br />
-        Vivo en Goya, Corrientes, Argentina.<br />
-        Apasionado por crear soluciones digitales y aprender constantemente.
+    <td style="padding-left: 30px; vertical-align: middle; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #1a1a1a;">
+      <h1 style="margin: 0; color: #1e90ff; font-weight: 700;">👋 ¡Hola! Soy Ariel Ayala</h1>
+      
+      <p style="margin-top: 12px; font-size: 16px; line-height: 1.5;">
+        🎓 <strong>Estudiante en:</strong> <br />
+        Universidad Tecnológica Nacional - Facultad Regional Resistencia (UTN FRRe) <br /><br />
+        
+        💻 <strong>Especialidad:</strong> Desarrollo Backend <br /><br />
+        
+        📍 <strong>Ubicación:</strong> Goya, Corrientes, Argentina <br /><br />
+        
+        🔥 Apasionado por crear soluciones digitales eficientes y aprender constantemente.
       </p>
     </td>
   </tr>
 </table>
+
 
 ---
 
