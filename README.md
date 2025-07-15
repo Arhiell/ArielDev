@@ -20,7 +20,7 @@
       <h1 style="margin: 0 0 10px 0; font-weight: 700; font-size: 2.2em;">👋 ¡Hola! Soy Ariel Ayala</h1>
       <p style="font-size: 1.1em; margin: 8px 0;">
         🎓 <strong>Estudiante</strong> en <em>UTN - Facultad Regional Resistencia</em><br>
-        💻 Enfocado en desarrollo <strong>Backend</strong><br>
+        💻 Enfocado en desarrollo <strong>Backend</strong><br><br>
         📍 Resido en <strong>Goya, Corrientes, Argentina</strong><br><br>
         🔥 Apasionado por crear soluciones digitales eficientes y aprender constantemente.
       </p>
@@ -31,12 +31,31 @@
 
 
 ---
+<table align="center" style="
+  border-radius: 15px; 
+  max-width: 700px; 
+  padding: 25px; 
+  box-shadow:
+    0 8px 15px rgba(81, 43, 212, 0.3),
+    0 4px 6px rgba(106, 90, 205, 0.25);
+  border: 3px solid #512BD4;
+  background-color: #f9faff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #2a2a72;
+">
+  <tr>
+    <td style="width: 60px; vertical-align: top; text-align: center; font-size: 2.5em; padding-top: 5px;">🎯</td>
+    <td style="padding-left: 20px;">
+      <h2 style="margin-top: 0; margin-bottom: 15px; color: #512BD4;">Objetivos profesionales</h2>
+      <ul style="font-size: 1.1em; line-height: 1.6; padding-left: 20px;">
+        <li>💡 Convertirme en un <strong>desarrollador backend experto</strong>.</li>
+        <li>🚀 Participar en <strong>proyectos desafiantes</strong> que mejoren la vida de las personas.</li>
+        <li>📚 Aprender continuamente nuevas tecnologías y <strong>metodologías ágiles</strong>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 👨‍🎓 Sobre mí
-
-Soy estudiante de la **UTN - Facultad Regional Resistencia**, enfocado en desarrollo **backend**.  
-Vivo en Goya, Corrientes, Argentina.  
-Me apasiona crear soluciones digitales eficientes y aprender nuevas tecnologías constantemente.
 
 ---
 
