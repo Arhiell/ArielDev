@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/tu_id_github?v=4" alt="Foto de Ariel" width="150" style="border-radius:50%" />
+  <img src="https://github.com/account alt="Foto de Ariel" width="150" style="border-radius:50%" />
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Ariel Ayala</h1>
@@ -8,9 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Estudiante+de+la+UTN;Backend+Developer+en+formación;Apasionado+por+el+código+%F0%9F%92%BB" alt="Typing SVG" />
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKUMaRvwP4zZ0p6/giphy.gif" width="200" />
-</p>
+
 
 ---
 
