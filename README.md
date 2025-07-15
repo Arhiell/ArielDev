@@ -1,18 +1,24 @@
-<h1 align="center">👋 ¡Hola! Soy Ariel</h1>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/tu_id_github?v=4" alt="Foto de Ariel" width="150" style="border-radius:50%" />
+</p>
+
+<h1 align="center">👋 ¡Hola! Soy Ariel Ayala</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Estudiante+de+la+UTN;Backend+Developer+en+formación;Apasionado+por+el+código+%F0%9F%92%BB" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKUMaRvwP4zZ0p6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o7TKUMaRvwP4zZ0p6/giphy.gif" width="200" />
 </p>
 
 ---
 
-🎓 Estudiante en **UTN - Facultad Regional Resistencia**  
-💻 Enfocado en el desarrollo **Backend**  
-🚀 Siempre aprendiendo nuevas tecnologías y construyendo proyectos reales
+### 👨‍🎓 Sobre mí
+
+Soy estudiante de la **UTN - Facultad Regional Resistencia**, enfocado en desarrollo **backend**.  
+Me apasiona crear soluciones digitales eficientes y aprender nuevas tecnologías constantemente.  
+Vivo en Goya, Corrientes, Argentina.
 
 ---
 
@@ -32,24 +38,49 @@
 
 ---
 
-### 🚧 Proyectos Destacados
+### 🚀 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-| ------- | ----------- | ----------- |
-| 🔧 **DoneIt!** | App tipo To-Do List con creación y gestión de tareas por usuario. | `.NET`, `MySQL`, `ASP.NET MVC`, `HTML/CSS`, `JS` |
-| 🎮 **Simulador de Turnos** | Gestión de colas y turnos para atención de clientes. | `C#`, `WinForms`, `ADO.NET` |
-| 📊 **Dashboard Académico** *(en desarrollo)* | Visualización de datos académicos con estadísticas. | `Python`, `Pandas`, `Matplotlib` |
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+<!-- Tarjeta Proyecto 1 -->
+<div style="border: 2px solid #512BD4; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 2px 2px 8px #512BD4;">
+  <h3>DoneIt! Mobile 📱</h3>
+  <p>Gestor de tareas para Android con Kotlin y arquitectura MVVM.</p>
+  <p><strong>Herramientas:</strong> Kotlin, Android Studio, Retrofit, RecyclerView, ViewModel, XML Layouts</p>
+  <p><strong>Descripción:</strong> App móvil para crear, organizar y compartir proyectos con tareas individuales y colaborativas.</p>
+  <a href="https://github.com/Arhiell/DoneItMobil" target="_blank">🔗 Ver repositorio</a>
+</div>
+
+<!-- Tarjeta Proyecto 2 -->
+<div style="border: 2px solid #4479A1; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 2px 2px 8px #4479A1;">
+  <h3>DoneIt! Web 💻</h3>
+  <p>Gestor de tareas y proyectos con ASP.NET Core MVC y MySQL.</p>
+  <p><strong>Herramientas:</strong> ASP.NET Core MVC, Identity, JWT, MySQL, EF Core, Bootstrap, JavaScript</p>
+  <p><strong>Descripción:</strong> Plataforma web para gestionar proyectos, tareas, estados y generación de códigos QR.</p>
+  <a href="https://github.com/Arhiell/DoneIt/tree/main" target="_blank">🔗 Ver repositorio</a>
+</div>
+
+<!-- Tarjeta Proyecto 3 -->
+<div style="border: 2px solid #3B82F6; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 2px 2px 8px #3B82F6;">
+  <h3>Clínica Web 🏥</h3>
+  <p>Aplicación para gestión integral de turnos médicos con roles diferenciados.</p>
+  <p><strong>Herramientas:</strong> Node.js, Express.js, MySQL, HTML5, CSS3, JavaScript</p>
+  <p><strong>Descripción:</strong> Permite solicitar turnos, registrar menores, y administrar información personal.</p>
+  <a href="https://github.com/Arhiell/ClinicaSaludWeb" target="_blank">🔗 Ver repositorio</a>
+</div>
+
+</div>
 
 ---
 
 ### 📫 Cómo contactarme
 
 - 📧 Email: [tuemail@example.com]  
-- 🌐 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- 💼 Portafolio web (opcional): [link aquí]
+- 🌐 LinkedIn: [https://linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+- 💼 Portafolio: [tuportafolio.com](https://tuportafolio.com)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&label=Visitas&style=flat-square&color=blue" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=Arhiell&label=Visitas&style=flat-square&color=blue" alt="visitors"/>
 </p>
