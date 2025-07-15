@@ -104,8 +104,7 @@
     font-weight: 600;
     border-radius: 12px;
     text-decoration: none;
-    box-shadow: 0 4px 10px rgba(255, 111, 97, 0.5);
-    transition: background-color 0.3s ease;">
+    box-shadow: 0 4px 10px rgba(255, 111, 97, 0.5);">
     🔗 Ver Repositorio
   </a>
 </td>
@@ -123,8 +122,7 @@
     font-weight: 600;
     border-radius: 12px;
     text-decoration: none;
-    box-shadow: 0 4px 10px rgba(106, 90, 205, 0.5);
-    transition: background-color 0.3s ease;">
+    box-shadow: 0 4px 10px rgba(106, 90, 205, 0.5);">
     🔗 Ver Repositorio
   </a>
 </td>
@@ -142,29 +140,13 @@
     font-weight: 600;
     border-radius: 12px;
     text-decoration: none;
-    box-shadow: 0 4px 10px rgba(32, 178, 170, 0.5);
-    transition: background-color 0.3s ease;">
+    box-shadow: 0 4px 10px rgba(32, 178, 170, 0.5);">
     🔗 Ver Repositorio
   </a>
 </td>
 
 </tr>
 </table>
-
-<style>
-  table td:hover {
-    transform: scale(1.07);
-  }
-  table td:nth-child(1):hover {
-    box-shadow: 0 0 25px rgba(255, 111, 97, 0.7);
-  }
-  table td:nth-child(2):hover {
-    box-shadow: 0 0 25px rgba(106, 90, 205, 0.7);
-  }
-  table td:nth-child(3):hover {
-    box-shadow: 0 0 25px rgba(32, 178, 170, 0.7);
-  }
-</style>
 
 
 ---
